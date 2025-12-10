@@ -1,6 +1,6 @@
 {
     "$schema": "http://json-schema.org/draft-07/schema",
-    "$id": "https://raw.githubusercontent.com/Osadio95/amrtrinity/master/nextflow_schema.json",
+    "$id": "https://raw.githubusercontent.com/Osadio95/amrtrinity/main/nextflow_schema.json",
     "title": "AMR Trinity Workflow",
     "description": "Antimicrobial Resistance analysis with AMRFinderPlus, ResFinder and RGI",
     "type": "object",
